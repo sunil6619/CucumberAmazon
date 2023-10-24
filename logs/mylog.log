@@ -1,0 +1,27 @@
+[INFO ] 2023-10-13 21:46:57.904 [main] StepDef - Set up executed
+[INFO ] 2023-10-13 21:46:57.948 [main] StepDef - Chrome browser launched
+[INFO ] 2023-10-13 21:47:00.762 [main] StepDef - URL launched
+[INFO ] 2023-10-13 21:47:01.838 [main] StepDef - Clicked Sign in 
+[INFO ] 2023-10-13 21:47:01.873 [main] StepDef - Got sigin box 
+[INFO ] 2023-10-15 16:22:42.135 [main] StepDef - Set up executed
+[INFO ] 2023-10-15 16:22:42.167 [main] StepDef - Chrome browser launched
+[INFO ] 2023-10-18 22:12:31.006 [main] StepDef - Set up executed
+[INFO ] 2023-10-18 22:12:31.023 [main] StepDef - Chrome browser launched
+[INFO ] 2023-10-18 22:12:33.896 [main] StepDef - URL launched
+[INFO ] 2023-10-18 22:12:35.269 [main] StepDef - Clicked Sign in 
+[INFO ] 2023-10-18 22:12:35.444 [main] StepDef - Got sigin box 
+[INFO ] 2023-10-18 22:16:25.581 [main] StepDef - Set up executed
+[INFO ] 2023-10-18 22:16:25.604 [main] StepDef - Chrome browser launched
+[INFO ] 2023-10-18 22:16:28.513 [main] StepDef - URL launched
+[INFO ] 2023-10-18 22:16:30.017 [main] StepDef - Clicked Sign in 
+[INFO ] 2023-10-18 22:16:30.202 [main] StepDef - Got sigin box 
+[INFO ] 2023-10-18 22:18:13.046 [main] StepDef - Set up executed
+[INFO ] 2023-10-18 22:18:13.064 [main] StepDef - Chrome browser launched
+[INFO ] 2023-10-18 22:18:15.921 [main] StepDef - URL launched
+[INFO ] 2023-10-18 22:18:17.486 [main] StepDef - Clicked Sign in 
+[INFO ] 2023-10-18 22:18:17.625 [main] StepDef - Got sigin box 
+[INFO ] 2023-10-18 22:20:19.824 [main] StepDef - Set up executed
+[INFO ] 2023-10-18 22:20:19.841 [main] StepDef - Chrome browser launched
+[INFO ] 2023-10-18 22:20:22.453 [main] StepDef - URL launched
+[INFO ] 2023-10-18 22:20:23.897 [main] StepDef - Clicked Sign in 
+[INFO ] 2023-10-18 22:20:24.030 [main] StepDef - Got sigin box 
